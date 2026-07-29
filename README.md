@@ -67,8 +67,6 @@ The Power BI "Customer Behavior Dashboard" includes:
 - `customer_shopping_behavior_Raw_Data.csv` — raw dataset
 - `customer_shopping_trend_Cleaned_data.csv` — cleaned dataset
 
-## Dashboard image
-<img width="1036" height="565" alt="Screenshot 2026-07-25 at 6 11 13 AM" src="https://github.com/user-attachments/assets/bd430cb5-c3dc-4622-9e19-35e90c3edc25" />
 
  
 ## Author
